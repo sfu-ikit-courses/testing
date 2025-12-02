@@ -1,0 +1,11 @@
+C:\Users\annna\OneDrive\Документы\универ\тестирование\practice4\PackageManager\src\PackageManager\bin\Debug\net8.0\PackageManager.deps.json
+C:\Users\annna\OneDrive\Документы\универ\тестирование\practice4\PackageManager\src\PackageManager\bin\Debug\net8.0\PackageManager.dll
+C:\Users\annna\OneDrive\Документы\универ\тестирование\practice4\PackageManager\src\PackageManager\bin\Debug\net8.0\PackageManager.pdb
+C:\Users\annna\OneDrive\Документы\универ\тестирование\practice4\PackageManager\src\PackageManager\obj\Debug\net8.0\PackageManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annna\OneDrive\Документы\универ\тестирование\practice4\PackageManager\src\PackageManager\obj\Debug\net8.0\PackageManager.AssemblyInfoInputs.cache
+C:\Users\annna\OneDrive\Документы\универ\тестирование\practice4\PackageManager\src\PackageManager\obj\Debug\net8.0\PackageManager.AssemblyInfo.cs
+C:\Users\annna\OneDrive\Документы\универ\тестирование\practice4\PackageManager\src\PackageManager\obj\Debug\net8.0\PackageManager.csproj.CoreCompileInputs.cache
+C:\Users\annna\OneDrive\Документы\универ\тестирование\practice4\PackageManager\src\PackageManager\obj\Debug\net8.0\PackageManager.dll
+C:\Users\annna\OneDrive\Документы\универ\тестирование\practice4\PackageManager\src\PackageManager\obj\Debug\net8.0\refint\PackageManager.dll
+C:\Users\annna\OneDrive\Документы\универ\тестирование\practice4\PackageManager\src\PackageManager\obj\Debug\net8.0\PackageManager.pdb
+C:\Users\annna\OneDrive\Документы\универ\тестирование\practice4\PackageManager\src\PackageManager\obj\Debug\net8.0\ref\PackageManager.dll
